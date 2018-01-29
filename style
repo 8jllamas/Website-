@@ -1,0 +1,12 @@
+#flemming{
+  width: 250px;
+  height:300px;
+}
+#school{
+  width: 250px;
+  height: 150px;
+}
+#math{
+  width: 250px;
+  height: 150px;
+}
